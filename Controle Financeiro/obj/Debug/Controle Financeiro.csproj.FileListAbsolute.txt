@@ -1,0 +1,97 @@
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\Controle Financeiro.exe.config
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\Controle Financeiro.exe
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\Controle Financeiro.pdb
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\obj\Debug\Controle Financeiro.csprojAssemblyReference.cache
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.Properties.Resources.resources
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\obj\Debug\Controle Financeiro.csproj.GenerateResource.cache
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\obj\Debug\Controle Financeiro.csproj.CoreCompileInputs.cache
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\obj\Debug\Controle Financeiro.exe
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\obj\Debug\Controle Financeiro.pdb
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.CadEntrada.resources
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\BouncyCastle.Crypto.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\Google.Protobuf.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\K4os.Compression.LZ4.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\K4os.Hash.xxHash.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\MySql.Data.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\Renci.SshNet.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\System.Buffers.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\System.Memory.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\System.Numerics.Vectors.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\Ubiety.Dns.Core.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\Zstandard.Net.dll
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\Google.Protobuf.pdb
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\Google.Protobuf.xml
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\K4os.Compression.LZ4.xml
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\K4os.Hash.xxHash.xml
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\MySql.Data.xml
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\Renci.SshNet.xml
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\System.Buffers.xml
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\System.Memory.xml
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\System.Numerics.Vectors.xml
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\obj\Debug\Controle Financeiro.csproj.CopyComplete
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.PagInicial.resources
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.CadSaida.resources
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.RelEntrada.resources
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.RelSaida.resources
+E:\Análise de Sistemas\Aulas\2º Semestre\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.RelMes.resources
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\Controle Financeiro.exe.config
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\Controle Financeiro.exe
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\Controle Financeiro.pdb
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\BouncyCastle.Crypto.dll
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\Google.Protobuf.dll
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\K4os.Compression.LZ4.dll
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\K4os.Hash.xxHash.dll
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\MySql.Data.dll
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\Renci.SshNet.dll
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\System.Buffers.dll
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\System.Memory.dll
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\System.Numerics.Vectors.dll
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\Ubiety.Dns.Core.dll
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\Zstandard.Net.dll
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\Google.Protobuf.pdb
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\Google.Protobuf.xml
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\K4os.Compression.LZ4.xml
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\K4os.Hash.xxHash.xml
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\MySql.Data.xml
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\Renci.SshNet.xml
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\System.Buffers.xml
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\System.Memory.xml
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\System.Numerics.Vectors.xml
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle Financeiro.csprojAssemblyReference.cache
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.PagInicial.resources
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.CadSaida.resources
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.RelEntrada.resources
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.RelSaida.resources
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.RelMes.resources
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.Properties.Resources.resources
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle Financeiro.csproj.GenerateResource.cache
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle Financeiro.csproj.CoreCompileInputs.cache
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle Financeiro.csproj.CopyComplete
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle Financeiro.exe
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle Financeiro.pdb
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.TelaLogin.resources
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.RelPeriodo.resources
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Gerador_de_Licença.AdicionarLicenca.resources
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.Cadastro_Conta_Corrente.resources
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.Extrato_Conta_Corrente.resources
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.Transferencia.resources
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.Cadastro_Usuario.resources
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.CadEventos.resources
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\SKGL.dll
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\Newtonsoft.Json.dll
+E:\Projetos\Controle Financeiro\Controle Financeiro\bin\Debug\Newtonsoft.Json.xml
+E:\Projetos\Controle Financeiro\Controle Financeiro\obj\Debug\Controle_Financeiro.Telas_Sistemas.CodigoCliente.resources
